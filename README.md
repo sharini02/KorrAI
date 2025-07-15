@@ -1,0 +1,2 @@
+# KorrAI
+Technical case study
